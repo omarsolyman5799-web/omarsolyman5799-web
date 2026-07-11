@@ -1,6 +1,6 @@
 # Hi, I'm Hakel 👋
 
-I'm a beginner Data Analyst and aspiring Data Engineer from Egypt.
+I'm a beginner Data Analyst and aspiring Data Engineer .
 
 ## 🌱 I'm currently learning
 
