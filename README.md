@@ -2,6 +2,14 @@
 
 I'm a beginner Data Analyst and aspiring Data Engineer .
 
+## 📑 Table of Contents
+
+- [🌱 I'm Currently Learning](#-im-currently-learning)
+- [🎯 My Goal](#-my-goal)
+- [📂 Projects](#-projects)
+- [📫 Connect](#-connect)
+
+
 ## 🌱 I'm currently learning
 
 - Advanced Excel
