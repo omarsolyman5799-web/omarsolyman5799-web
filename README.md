@@ -1,4 +1,4 @@
-# Hi, I'm Hakel 👋
+# Hi, I'm Omar 👋
 
 I'm a beginner Data Analyst and aspiring Data Engineer .
 
@@ -7,7 +7,7 @@ I'm a beginner Data Analyst and aspiring Data Engineer .
 - [🌱 I'm Currently Learning](#-im-currently-learning)
 - [🎯 My Goal](#-my-goal)
 - [📂 Projects](#-projects)
-- [📫 Connect](#-connect)
+
 
 
 ## 🌱 I'm currently learning
@@ -40,9 +40,3 @@ Cleaned messy customer data using Power Query.
 Solved SQL queries using sample datasets.
 
 ---
-
-## 📫 Connect
-
-- LinkedIn
-- Email
-- Portfolio *(when available)*
